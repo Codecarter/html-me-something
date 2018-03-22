@@ -1,7 +1,7 @@
-ol p{
+ol{
     color:red
 }
-p {
+p{
     margin: 50px 50px;
 }
 footer{
@@ -11,5 +11,5 @@ footer{
     background-color:purple;
 }
 #firstname{
-    font-family: Helvetica;
+    font-family: cursive;
 }
