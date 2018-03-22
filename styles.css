@@ -1,0 +1,15 @@
+ol p{
+    color:red
+}
+p {
+    margin: 50px 50px;
+}
+footer{
+    padding-bottom: 120px;
+}
+.welcome{
+    background-color:purple;
+}
+#firstname{
+    font-family: Helvetica;
+}
