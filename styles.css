@@ -1,5 +1,5 @@
 ol{
-    color:red
+    background-color:greenyellow
 }
 p{
     margin: 50px 50px;
@@ -8,8 +8,8 @@ footer{
     padding-bottom: 120px;
 }
 .welcome{
-    background-color:purple;
+    font-size:17px;
 }
 #firstname{
-    font-family: cursive;
+    font-family: Verdana;
 }
